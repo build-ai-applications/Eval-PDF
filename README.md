@@ -38,9 +38,8 @@
 
 ## 🚀 How to Use
 1️⃣ Clone the repo: `git clone <repo-url>`  
-2️⃣ Install dependencies: `pip install -r requirements.txt`  
-3️⃣ Run the app: `Evaluation_pdf_to_text.ipynb`  
-4️⃣ Upload a PDF & get evaluation results! 🎉  
+2️⃣ Run the app: `Evaluation_pdf_to_text.ipynb` 
+3️⃣ Upload a PDF on the gradio app & get evaluation results! 🎉  
 
 ---
 
