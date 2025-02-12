@@ -1,4 +1,4 @@
-# 📄 PDF to Searchable Text Evaluation - Open Source Repository
+# 📄 PDF to Searchable Text Evaluation
 
 🚀 **Evaluate frameworks for converting PDFs into searchable text using a Gradio app.** Upload a PDF and optionally provide ground truth images, text, or tables for benchmarking extraction results.
 
